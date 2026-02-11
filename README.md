@@ -1,7 +1,7 @@
 # scrapy-fingerprint
 
 ## Description
-Scrapy - fingerprint is based on [curl_cffi.] (https://github.com/Unity-Billal-mesloub/curl_cffi.), which is used in the packaging of scrapy TLS or JA3 fingerprints of simulated browser requests
+Scrapy - fingerprint is based on [curl_cffi] (https://github.com/Unity-Billal-mesloub/curl_cffi), which is used in the packaging of scrapy TLS or JA3 fingerprints of simulated browser requests
 
 **github**:https://github.com/Unity-Billal-mesloub/scrapy-fingerprint
 
